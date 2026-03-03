@@ -11,15 +11,12 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
+      - name: Generate GitHub Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: speemax
-          BRANCH: profile-summary
-          THEME: github_dark
-          OUTPUT_DIR: profile-summary
+          USERNAME: Psamcyite
+          BRANCH_NAME: profile-summary
