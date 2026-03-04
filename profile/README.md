@@ -56,9 +56,10 @@ The result is software that is:
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=speemax&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=speemax&layout=compact&theme=transparent&hide_border=true" height="165"/>
+![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/2077/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/2077/4-productive-time.svg)
 
 </p>
 
@@ -67,9 +68,7 @@ The result is software that is:
 # Contribution Activity
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/speemax/speemax/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/Speemax/.github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -165,7 +164,7 @@ Please report it responsibly to:
 
 ```
 
-[security@speemax.com](mailto:security@speemax.com)
+security@speemax.com
 
 ```
 
@@ -217,4 +216,3 @@ https://github.com/speemax
 <p align="center">
 Building secure software for a connected world.
 </p>
-```
